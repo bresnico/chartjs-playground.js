@@ -12,9 +12,9 @@ for(i in 1:length(key)) {
 
 # Variante 2 - générer un df puis ensuite le JSON----
 
-name <- c("Nico","Phil","Elena","Jean-Marc","Sylvie")
+name <- c("Nico","Philippe","Elena","Jean-Marc","Sylvie")
 
-score <- c(4,6,7,7,6)
+score <- c(3,7,7,7,5)
 
 df <- data.frame(name, score)
 
